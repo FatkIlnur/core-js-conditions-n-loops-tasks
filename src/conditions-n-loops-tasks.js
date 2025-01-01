@@ -309,7 +309,7 @@ function getBalanceIndex(arr) {
  * @param {number} size - The size of the matrix.
  * @return {number[][]} The spiral matrix.
  *
- * @example:
+ * @example
  *        [
  *          [1, 2, 3],
  *  3  =>   [8, 9, 4],
